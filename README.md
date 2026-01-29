@@ -1,7 +1,6 @@
 # 📂 Metadata Extractor
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 Extract detailed metadata from images, PDFs, audio, and video files. Simple, safe, and offline.
 
@@ -125,9 +124,6 @@ Install FFmpeg for your operating system.
 **No GPS data in photos:**
 Social media apps (WhatsApp, Instagram) strip metadata. Use original photos from your camera/phone.
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
