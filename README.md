@@ -5,11 +5,6 @@
 
 Extract detailed metadata from images, PDFs, audio, and video files. Simple, safe, and offline.
 
-## 📝 Development
-
-Core functionality developed with AI assistance. 
-Human-reviewed, tested, and maintained.
-
 ## ✨ Features
 
 - 🖼️ **Images** - EXIF data, GPS coordinates, camera settings
